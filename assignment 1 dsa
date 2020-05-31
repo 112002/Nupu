@@ -1,0 +1,28 @@
+Assignment 1: 
+
+Data set: GapMinder Data. 
+
+Research question: Is a fertility rate associated with a number of breast cancer cases?
+
+Items included in the CodeBook: 
+
+for fertility rate: 
+
+Children per woman (total fertility)
+Children per woman (total fertility), with projections
+
+for breast cancer: 
+
+Breast cancer, deaths per 100,000 women
+Breast cancer, new cases per 100,000 women
+Breast cancer, number of female deaths
+Breast cancer, number of new female cases
+
+Literature Review:
+
+From original source: http://ww5.komen.org/KomenPerspectives/Does-pregnancy-affect-breast-cancer-risk-and-survival-.html
+
+The more children a woman has given birth to, the lower her risk of breast cancer tends to be. Women who have never given birth have a slightly higher risk of breast cancer compared to women who have had more than one child.
+
+The hypothesis to explore using GapMinder data set: the higher fertility rate, the lower risk of breast cancer.
+                
